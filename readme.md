@@ -77,4 +77,4 @@ use jupyter notebook  and run model.ipynb
 ![console interface](assets/ss.png)
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://choosealicense.com/licenses/mit/) file for details.
