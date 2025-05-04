@@ -1,4 +1,6 @@
+## Demo
 
+![App Screenshot](static/demo.gif)
 # FRAUD DETECTION
 
 This project aims to build an intelligent fraud detection system that analyzes transaction patterns and identifies suspicious activities in real-time. Using machine learning algorithms like Decision Trees, Random Forest, and Neural Networks, the system learns from historical transaction data to detect anomalies. It focuses on minimizing false positives while ensuring early detection of fraudulent transactions. The model will be trained on features like transaction amount, location, time, device used, and customer behavior patterns. The final system can be integrated into banking apps to automatically flag or block suspicious transactions
