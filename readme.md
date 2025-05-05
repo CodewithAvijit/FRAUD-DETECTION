@@ -118,7 +118,7 @@ use jupyter notebook  and run model.ipynb
 - [@codewithAvijit](https://github.com/CodewithAvijit)
 
 
-## prediction output
+## output
 
 ![console interface](assets/ss.png)
 
