@@ -120,7 +120,7 @@ use jupyter notebook  and run model.ipynb
 
 ## output
 
-![console interface](assets/ss.png)
+![console interface](static/ss.png)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://choosealicense.com/licenses/mit/) file for details.
